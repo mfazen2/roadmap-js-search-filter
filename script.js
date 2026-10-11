@@ -39,3 +39,4 @@ console.log(findProductById(products, 3));
 console.log(searchProducts(products, 'pen').map((product) => product.name));
 console.log(getInStockProducts(products).map((product) => product.name));
 console.log(findProductById(products, 99));
+
